@@ -3,7 +3,7 @@
 
 ## Description
 
-A collection of ruby Questions with Answers from [RubyMonk](https://rubymonk.com/).
+A collection of Ruby Questions with Answers from [RubyMonk](https://rubymonk.com/), the interactive learning platform.
 
 <br />
 
